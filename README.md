@@ -14,6 +14,7 @@ Foram utilizadas as seguintes ferramentas:
 
 ## :bookmark: Autor
 Made with love :purple_heart: by Thamires Viel.
+
 -[Linkedin](https://www.linkedin.com/in/thamiresviel)
 
 
