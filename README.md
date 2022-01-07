@@ -3,6 +3,7 @@
 ---
 ## :information_source: Sobre
 Barbearia Alura é um projeto desenvolvido no curso sobre HTML5 e CSS3 da [Alura](https://www.alura.com.br/), com a finalidade de práticar os conhecimentos adquiridos durante o curso.
+
 Este projeto é 100% fiel aos códigos e exemplos apresentados durante o curso.
 
 ---
