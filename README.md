@@ -13,6 +13,9 @@ Foram utilizadas as seguintes ferramentas:
 - CSS3
 ---
 
+## Visite a página do projeto
+-[Acesse o site](https://thamiresviel.github.io/html_css_alura/)
+
 ## :bookmark: Autor
 Made with love :purple_heart: by Thamires Viel.
 
